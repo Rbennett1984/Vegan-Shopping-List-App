@@ -1,6 +1,5 @@
-// With JS in strict mode, you can not use undeclared variables.//
 'use strict';
-// create array for existing items on list
+// array for existing items on list
 const STORE = [
     {name: "Whole Grains", checked: false},
     {name: "Leafy Greens", checked: false},
